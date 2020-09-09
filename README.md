@@ -6,10 +6,15 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
 ## Team Info
 
 Team Name : Team One
+
 Team Members:
+
 Feng, Yuan - Master of Interdisciplinary Data Sciencse, Duke University - [GitHub: yuan-feng1](https://github.com/yuan-feng1)
+
 Han, Mengyue - Master of Biostatistics, Duke University - [GitHub: zhhmyz](https://github.com/zhhmyz)
+
 Qiu, Zhi (Heather) - Master of Statistical Science, Duke University - [GitHub: ZhiQiu976](https://github.com/ZhiQiu976)
+
 Xu, Zhenhui - Master of Biostatistics, Duke University - [GitHub: zhenhuixu](https://github.com/zhenhuixu)
 
 
