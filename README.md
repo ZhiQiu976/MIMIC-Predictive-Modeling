@@ -39,6 +39,7 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
 
 - Data Plan
     - Extract, Load, Transform
+    - Data cleaning, check for missing values & outliers, fix if unbanlanced data
     - EDA
     - Feature selection
     
