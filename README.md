@@ -26,13 +26,43 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
 
 ### Project Objective
 
+- Objective
+
+- Benefits
+
+- Data Product
+    - Report (e.g. auto-generated PDF)
+    - Dashboard (if time allows)
 
 
 ### Project Plan
 
+- Data Plan
+    - Extract, Load, Transform
+    - EDA
+    - Feature selection
+    
+- ML Plan
+    - Different model training
+    - Model selection
+    - Model evaluation
+
+- Operations Plan
+    - Branches on GitHub, version control with git
+    - Logging can be retrived from commits comments and ReadMe updates
+
+- Technology Stack
+    - SQL, PostgreSQL
+    - AWS
+    - Pandas, pyplot, seaborn, scikit-learn, dash, streamlit, etc.
 
 
 ### Team Member Responsibility
+
+- Biweekly meeting and continuous cooperation
+- All teammates would participate in the data exploration stage (ETL, EDA, feature selection)
+- Each team member would take chage of some of the ML models in the ML exploration stage
+- Would split tasks for report writing and dashboard construction (if time allows)
 
 
 
