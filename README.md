@@ -27,9 +27,15 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
 ### Project Objective
 
 - Objective
+    * Primary Aim: Predicting Length of Stay(LoS) at the admission of hospital as a continuous variable
+    * Secondary Aim: Predicting Mortality Rate of patient at the admission of hospital
 
 - Benefits
-
+    * Provide information about hospital utilizations, such as hospital bed occupancy and other key resources as a clinical decision system
+    * Predict clinicians of the mortality rate of patients at the admission of hospital so health providers can be well informed as they perform clinical procedures
+    * Display the predictions by dashboard and inform the clinicians of the overall trend of hospital utilizations. (if time allows)
+    * Decrease the risk of adverse hospital-acquired events, and improve scheduling and satisfaction for patients
+    
 - Data Product
     - Report (e.g. auto-generated PDF)
     - Dashboard (if time allows)
@@ -39,6 +45,7 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
 
 - Data Plan
     - Extract, Load, Transform
+    - Data cleaning, check for missing values & outliers, fix if unbanlanced data
     - EDA
     - Feature selection
     
