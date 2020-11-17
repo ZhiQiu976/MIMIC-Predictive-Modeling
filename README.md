@@ -44,7 +44,7 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
 - Data Product
     - Multi-Page Dashboard held on Cloud Platform
     - Online ML Algorithm for Real-Time Prediction
-    - [GitHub Link](https://github.com/biostats823-final-project/MIMIC-Dashboard)
+    - [Deployment])https://bios823-mimic-dashboard.ue.r.appspot.com/) / [GitHub Link](https://github.com/biostats823-final-project/MIMIC-Dashboard)
 
 
 ### Project Plan
