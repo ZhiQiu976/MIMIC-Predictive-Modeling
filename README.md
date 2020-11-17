@@ -31,7 +31,9 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
     * (what is the question you tried to answer ...)
 
 - Audience
-    * ...
+    * Our platform aims to serve the hospital administration team, the inquisitive researchers and curious  patients
+    * The multi-page dashboard serves as a tool to monitor occupancy and clinical results of patients, and provide comprehensive demonstration
+    * The online ML prediction model provides real-time results of clinical outcome, which will aid in decision-making process of patients and doctors
 
 - Benefits
     * Provide information about hospital utilizations, such as hospital bed occupancy and other key resources as a clinical decision system
