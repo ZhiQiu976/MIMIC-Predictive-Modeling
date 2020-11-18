@@ -31,7 +31,7 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
     * More specifically, a classification system built with machine learning models to predict the discharge location of patients with ICU admission based on their demographics, vital signs, laboratory tests, medications information, etc.
     
 - Audience
-    * Our platform aims to serve the hospital administration team, the inquisitive researchers and curious  patients
+    * Our platform aims to serve the hospital administration team, the inquisitive researchers and curious patients
     * The multi-page dashboard serves as a tool to monitor occupancy and clinical results of patients, and provide comprehensive demonstration
     * The online ML prediction model provides real-time results of clinical outcome, which will aid in decision-making process of patients and doctors
 
@@ -67,12 +67,12 @@ Final Project for course Biostats823 (2020 fall) at Duke : Predictive Modeling w
 
 - Technology Stack
     - (can list requirement No.7 technical mastery demonstration here ...)
-    - Database Management: SQL, PostgreSQL
-    - Online cloud platforms: AWS, GCP
-    - Data processing: pandas, numpy 
+    - Database Management: SQL
+    - Online cloud platforms: GCP
+    - Data processing: pandas, numpy, missingno
     - Visualization: pyplot, seaborn
-    - Machine Learning Implementation: scikit-learn, optuna
-    - Deployment and Interaction: dash, streamlit
+    - Machine Learning Implementation: scikit-learn, optuna, xgboost
+    - Deployment and Interaction: dash
 
 
 ### Team Member Responsibility
